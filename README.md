@@ -10,7 +10,7 @@ In this game you controll a shooter character and are able to shoot a riffle and
 - kill all the enemimy drones to win the game;
 - winning the game you get the message "You Win!";
 - if your helth gets to 0 your character dies and you lose;
-- losing the game you get the message "You lose!";
+- if the player dies you get the message "You died!";
 - the AI bots will chase and explode once it gets close enough to the player causing damage;
 - if the time runs out you lose and a message pops up "Out of time";
 - you can pick up ammo to refil ammo;
